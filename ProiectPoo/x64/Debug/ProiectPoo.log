@@ -1,0 +1,5 @@
+﻿  ProiectPoo.cpp
+C:\Users\DELL\Desktop\Facultate\Semestrul 2\POO\Laborator\Lab05\ProiectPoo\ProiectPoo.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  User.cpp
+  Generating Code...
+  ProiectPoo.vcxproj -> C:\Users\DELL\Desktop\Facultate\Semestrul 2\POO\Laborator\Lab05\ProiectPoo\x64\Debug\ProiectPoo.exe
